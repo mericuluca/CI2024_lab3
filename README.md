@@ -4,7 +4,7 @@ For heuristic function, i used manhattan distance and write a function which is 
 
 For path cost, the step number is used.
 
-## How its working?
+## How is it working?
 
 Everything happens in a while loop.
 
