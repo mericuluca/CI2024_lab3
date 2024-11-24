@@ -18,4 +18,4 @@ The costs are found for the next steps and added to the states_list.
 
 States_list is sorted by the costs and the next state is chosen by looking for the least cost.
 
-The available actions found for this new state and goes like this.
+If the new state is not the goal, the available actions is found for this new state and the algorithm goes like this.
